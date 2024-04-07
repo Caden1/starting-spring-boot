@@ -1,6 +1,6 @@
 This repository contains my practice and notes from section 5 of the Udemy course [Master Spring Boot 3 & Spring Framework 6 with Java](https://www.udemy.com/course/spring-boot-and-spring-framework-tutorial-for-beginners), created by Ranga Karanam, the founder of in28minutes.
 
-# Section 5: Getting Stated with Spring Boot
+# Section 5: Getting Started with Spring Boot
 
 Understanding the World Before Spring Boot - 10000 Feet Overview:
 * Setting up projects before Spring Boot was NOT easy!
